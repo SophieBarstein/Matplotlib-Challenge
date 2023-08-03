@@ -1,7 +1,7 @@
 # Matplotlib-Challenge
 
 ## Project
-Pymaceuticasls Data Analysis - Project
+Pymaceuticasls Data Analysis 
 
 ## About
 This analysis looks at the relationship between drug regimen and tumor volume in mice. 
